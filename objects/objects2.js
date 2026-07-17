@@ -7,3 +7,6 @@ console.log(config);
 delete config.browser;
 console.log(config);
 
+Object.keys(config);
+
+

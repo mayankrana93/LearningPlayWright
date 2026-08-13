@@ -11,12 +11,13 @@
   "keywords": [],
   "author": "Mayank",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/mayankrana93/LearningPlayWright/issues"
   },
   "homepage": "https://github.com/mayankrana93/LearningPlayWright#readme",
   "devDependencies": {
+    "@playwright/cli": "^0.1.17",
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.0.0"
   }

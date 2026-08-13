@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "/Users/mayankrana/.npm-global/bin/tsx",
+        "javascript": "node"
+    }
+}

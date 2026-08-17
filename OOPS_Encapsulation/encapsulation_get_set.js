@@ -21,3 +21,4 @@ let per = new Person("Billu", "Noami", "Oliver");
 console.log(per.parenting);
 per.setChild("Andrew");
 console.log(per.getChild());
+

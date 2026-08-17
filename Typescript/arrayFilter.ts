@@ -9,3 +9,4 @@ function getFailedCodes(codes: number[]): number[] {
 }
 
 console.log(getFailedCodes(responseCodes));
+

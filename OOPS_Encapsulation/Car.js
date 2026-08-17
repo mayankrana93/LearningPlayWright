@@ -14,3 +14,4 @@ class Car {
 let hyundai_car = new Car("Creta");
 hyundai_car.driveCar();
 console.log(hyundai_car.testVar);
+
